@@ -1,6 +1,6 @@
 # My Gallery
 
-A minimal Django-based photo gallery with user accounts and media management.
+A Django-based photo gallery with user accounts and media management.
 
 This starter README is paired with a small skeleton for a `gallery` app (models and urls) plus an `.env.example` you can copy into your project.
 
